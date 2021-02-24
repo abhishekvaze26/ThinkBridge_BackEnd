@@ -91,3 +91,4 @@ F:\ThinkBridge\ProductsApi\obj\Debug\ProductsApi.Migrations.PopulateProduct.reso
 F:\ThinkBridge\ProductsApi\bin\System.Web.Cors.dll
 F:\ThinkBridge\ProductsApi\bin\System.Web.Http.Cors.dll
 F:\ThinkBridge\ProductsApi\bin\System.Web.Http.Cors.xml
+F:\ThinkBridge\ProductsApi\obj\Debug\ProductsApi.csprojAssemblyReference.cache
